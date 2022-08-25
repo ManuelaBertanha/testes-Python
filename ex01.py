@@ -1,6 +1,3 @@
-# Manuela de Caria Bertanha | TIA 32152851
-# Michele Ramos Borowski | TIA 32166052
-
 # Exercício 1
 
 def verMaior(n1, n2, n3):

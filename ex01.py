@@ -1,4 +1,5 @@
 # Exercício 1
+# Faça um programa, com uma função que receba três argumentos inteiros e que retorne o maior deles. Caso sejam todos iguais, emitir mensagem adequada.
 
 def verMaior(n1, n2, n3):
   maior = n1
